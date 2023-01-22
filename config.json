@@ -1,0 +1,5 @@
+{
+    "connection_string": "root:mysqlDB@123@tcp(127.0.0.1:3306)/new_schema",
+    "port": 8000
+}
+
